@@ -1,0 +1,46 @@
+#Ignore thumbnails created by Windows
+Thumbs.db
+#Ignore files built by Visual Studio
+*.obj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+[Bb]in
+[Dd]ebug*/
+*.lib
+*.sbr
+obj/
+[Rr]elease*/
+_ReSharper*/
+[Tt]est[Rr]esult*
+.vs/
+#Nuget packages folder
+packages/
+/.idea/.idea.BackEndTest/.idea/codeStyles/codeStyleConfig.xml
+/.idea/.idea.BackEndTest/.idea/contentModel.xml
+/.idea/.idea.BackEndTest/.idea/indexLayout.xml
+/.idea/.idea.BackEndTest/.idea/modules.xml
+/.idea/.idea.BackEndTest/.idea/projectSettingsUpdater.xml
+/.idea/.idea.BackEndTest/.idea/vcs.xml
+/.idea/.idea.BackEndTest/.idea/workspace.xml
+/.idea/.idea.BackEndTest/riderModule.iml
+/BackEndTest/.idea/.idea.BackEndTest.dir/.idea/codeStyles/codeStyleConfig.xml
+/BackEndTest/.idea/.idea.BackEndTest.dir/.idea/contentModel.xml
+/BackEndTest/.idea/.idea.BackEndTest.dir/.idea/indexLayout.xml
+/BackEndTest/.idea/.idea.BackEndTest.dir/.idea/modules.xml
+/BackEndTest/.idea/.idea.BackEndTest.dir/.idea/projectSettingsUpdater.xml
+/BackEndTest/.idea/.idea.BackEndTest.dir/.idea/workspace.xml
+/BackEndTest/.idea/.idea.BackEndTest.dir/riderModule.iml
