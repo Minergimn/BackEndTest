@@ -1,11 +1,7 @@
-using System;
-
 namespace BackEndTest.Extensions
 {
     internal static class ListNodeExtensions
     {
-        private static Random _random = new Random();
-        
         internal static bool IsNotTail(this ListNode node) => node.Next != null;
         
         internal static ListNode AddNode(this ListNode currentNode, string data = default)
